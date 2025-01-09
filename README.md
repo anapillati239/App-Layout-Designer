@@ -1,2 +1,2 @@
 # App Layout Designer
-Um simples projeto de layout.
+Um projeto simples de layout.
